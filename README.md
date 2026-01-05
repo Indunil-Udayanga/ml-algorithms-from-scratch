@@ -11,7 +11,7 @@ The goal of this repository is to understand how machine learning algorithms wor
 
 ## Algorithms Included
 ### Supervised Learning
-- [Linear Regression](./supervised/linear_regression)
+- [Linear Regression](./linear_regression)
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
